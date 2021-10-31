@@ -3,7 +3,6 @@
 namespace Astrogoat\Yotpo\Settings;
 
 use Helix\Lego\Settings\AppSettings;
-use Astrogoat\Yotpo\Actions\YotpoAction;
 
 class YotpoSettings extends AppSettings
 {

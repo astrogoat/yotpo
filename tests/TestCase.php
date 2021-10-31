@@ -2,9 +2,9 @@
 
 namespace Astrogoat\Yotpo\Tests;
 
+use Astrogoat\Yotpo\YotpoServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Astrogoat\Yotpo\YotpoServiceProvider;
 
 class TestCase extends Orchestra
 {
