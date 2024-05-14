@@ -41,7 +41,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Kristoffer Tonning](https://github.com/astrogoat)
+- [Laura Tonning](https://github.com/astrogoat)
 - [All Contributors](../../contributors)
 
 This yotpo package is forked from the awesome [Spatie yotpo package](https://github.com/spatie/package-yotpo-laravel#support-us). Please go support them if you can.
