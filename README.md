@@ -22,6 +22,11 @@ Include the component that you need in your Blade file:
     instance-id="[THE INSTANCE ID FROM YOTPO'S WIDGET]"
     product-id="[THE SHOPIFY PRODUCT ID]"
 />
+
+<x-yotpo::star-rating
+    instance-id="[THE INSTANCE ID FROM YOTPO'S WIDGET]"
+    product-id="[THE SHOPIFY PRODUCT ID]"
+/>
 ```
 
 ## Testing
