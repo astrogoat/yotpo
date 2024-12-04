@@ -16,9 +16,17 @@ composer require astrogoat/yotpo
 
 ## Usage
 
-Include the script in your Blade file:
+Include the component that you need in your Blade file:
 ```php
-@include('yotpo::script')
+<x-yotpo::reviews-widget
+    instance-id="[THE INSTANCE ID FROM YOTPO'S WIDGET]"
+    product-id="[THE SHOPIFY PRODUCT ID]"
+/>
+
+<x-yotpo::star-rating
+    instance-id="[THE INSTANCE ID FROM YOTPO'S WIDGET]"
+    product-id="[THE SHOPIFY PRODUCT ID]"
+/>
 ```
 
 ## Testing
